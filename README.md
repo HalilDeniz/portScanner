@@ -35,6 +35,6 @@ python3 portScan.py -H google.com -p 443,80,3389,22,21,3306
 
 
 ```
-Youtube Channel: https://www.youtube.com/watch?v=6o4KoMJF-rU&ab_channel=HalilDeniz
-
-telegram Channel: https://t.me/halildeniz33
+- Youtube Channel: https://www.youtube.com/watch?v=6o4KoMJF-rU&ab_channel=HalilDeniz
+- instagram      : https://www.instagram.com/halil.deniz33/
+- telegram group : https://t.me/halildeniz33
