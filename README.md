@@ -1,4 +1,4 @@
-# Program kullanım talimatı
+# Program usage instruction
 ```
 python3 portScan.py 
 Program Use: -H <Host Address> -p <Port Adress>
